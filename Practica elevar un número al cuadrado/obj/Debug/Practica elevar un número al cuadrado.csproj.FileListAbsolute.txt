@@ -1,0 +1,7 @@
+C:\Users\user1\OneDrive\Escritorio\Practica elevar un número al cuadrado\bin\Debug\Practica elevar un número al cuadrado.exe.config
+C:\Users\user1\OneDrive\Escritorio\Practica elevar un número al cuadrado\bin\Debug\Practica elevar un número al cuadrado.exe
+C:\Users\user1\OneDrive\Escritorio\Practica elevar un número al cuadrado\bin\Debug\Practica elevar un número al cuadrado.pdb
+C:\Users\user1\OneDrive\Escritorio\Practica elevar un número al cuadrado\obj\Debug\Practica elevar un número al cuadrado.csproj.AssemblyReference.cache
+C:\Users\user1\OneDrive\Escritorio\Practica elevar un número al cuadrado\obj\Debug\Practica elevar un número al cuadrado.csproj.CoreCompileInputs.cache
+C:\Users\user1\OneDrive\Escritorio\Practica elevar un número al cuadrado\obj\Debug\Practica elevar un número al cuadrado.exe
+C:\Users\user1\OneDrive\Escritorio\Practica elevar un número al cuadrado\obj\Debug\Practica elevar un número al cuadrado.pdb
